@@ -1,3 +1,6 @@
+![Project Banner](cover.png)
+
+
 # Predicting Customer Purchase Behavior – British Airways (Random Forest Model)
 
 This project builds and evaluates a Random Forest classifier to predict customer purchase behavior based on travel data from British Airways. The goal is to identify high-potential customers and optimize marketing strategies.
@@ -43,3 +46,4 @@ cd RandomForest_BritishAirways
 
 # Install dependencies
 pip install -r requirements.txt
+
